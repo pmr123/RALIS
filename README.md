@@ -1,6 +1,5 @@
 # CityScapes Semantic Segmentation 
 
-![Attention U-Net Visualization](predictions_visualizations/attention_u_net/attention_u_net_frame.png)
 
 ## Introduction 
 
@@ -22,14 +21,6 @@ Resized Image Size : `512 x 1024`
 
 Aspect Ratio of `1:2` must be preserved. 
 
-### U-Net Model
-
-![Attention Module](predictions_visualizations/simple_unet.jpg)
-
-### Attention U-Net Model 
-
-![Attention U-Net](predictions_visualizations/attention_u_net_model.jpg)
-![Attention Module](predictions_visualizations/attention_cv_module.png)
 
 ## Performance Metrics 
 
